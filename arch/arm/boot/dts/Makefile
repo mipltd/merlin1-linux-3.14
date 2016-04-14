@@ -189,6 +189,7 @@ dtb-$(CONFIG_ARCH_MXC) += \
 	imx6q-sabresd-ldo.dtb \
 	imx6q-sabresd-hdcp.dtb \
 	imx6q-merlin1.dtb \
+	imx6q-merlin1-ldo.dtb \
 	imx6q-sbc6x.dtb \
 	imx6q-udoo.dtb \
 	imx6q-wandboard.dtb \
